@@ -1,0 +1,1 @@
+This program was created for ukrainian language. All interfaces in all .py files was translated to english, in dist you can find original ukranian .exe
